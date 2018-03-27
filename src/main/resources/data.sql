@@ -1,0 +1,1 @@
+insert into login_bean(username,password) values('nik','123')
